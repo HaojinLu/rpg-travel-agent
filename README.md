@@ -1,6 +1,6 @@
 # RPG Travel Agent Backend
 
-A location-aware travel game prototype. It turns nearby places and user intent into optional RPG-style walking quests, a quest board, and a travel journal. This repository contains the **backend and a local test page**; it is not a complete mobile app.
+A location-aware agent backend for RPG-style urban exploration with LangGraph, AMap, and server-sent events (SSE). It turns nearby places and user intent into optional walking quests, a quest board, and a travel journal. This repository contains the **backend and a local test page**; it is not a complete mobile app.
 
 **My contribution:** I was responsible for backend development in the broader travel app. This repository focuses on that backend; it does not claim sole authorship of the full product or mobile UI.
 
